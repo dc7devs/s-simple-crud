@@ -1,6 +1,6 @@
 ## Simple to-do list project
 
-Study project, built with resources and spring boot starters.
+A study project, built with resources and spring boot starters, implements an MVC architecture for a to-do list.
 
 ### Tools
 - spring boot
