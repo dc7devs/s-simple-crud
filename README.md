@@ -2,7 +2,7 @@
 
 A study project, built with resources and spring boot starters, implements an MVC architecture for a to-do list.
 
-### Tools
+### Techs
 - spring boot
 - data jpa
 - web starter
